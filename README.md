@@ -4,6 +4,12 @@ A modern and responsive password generator built using React. This app allows us
 
 ---
 
+🚀 Live Demo
+
+🌐 https://react-passwordgenerator.onrender.com
+
+---
+
 ## 🚀 Features
 
 * 🔑 Generate strong random passwords
